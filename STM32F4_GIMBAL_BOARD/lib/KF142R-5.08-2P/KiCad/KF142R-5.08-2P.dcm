@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KF142R-5.08-2P
+D connector 2 rows 5.08 pitch
+K
+F https://datasheet.lcsc.com/lcsc/2001151504_Cixi-Kefa-Elec-KF142R-5-08-2P_C475144.pdf
+$ENDCMP
+#
+#End Doc Library

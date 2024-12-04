@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KF142R-5_08-2P"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-07-13-05:03:27)
+    (mountForm default
+        (footprintRef "KF142R5082P")
+        (spec "System")
+    )
+)

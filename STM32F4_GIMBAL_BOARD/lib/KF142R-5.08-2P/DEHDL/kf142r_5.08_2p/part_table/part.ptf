@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KF142R_5.08_2P'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "CIXI KEFA ELECTRONICS", "KF142R-5.08-2P" (!) = "", "KF142R5082P", "Other", "", "", "", "", "connector 2 rows 5.08 pitch", "https://datasheet.lcsc.com/lcsc/2001151504_Cixi-Kefa-Elec-KF142R-5-08-2P_C475144.pdf", "10.5 mm"
+END_PART
+
+END.
